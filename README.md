@@ -4,7 +4,7 @@ Hi there! 👋
 
 I built **SharpShowcase** to demonstrate some of the cool things you can do with a clean, modular Console Application in .NET 9.0.
 
-Since I'm currently looking for an IT job, I created this project as a personal playground to test out popular libraries like **Serilog** and **Humanizer**, while focusing on writing high-quality, maintainable code. It's safe to say this is not your average "Hello World" app—it features structured logging, an interactive menu system, and a solid architecture.
+I created this project as a personal playground to test out popular libraries like **Serilog** and **Humanizer**, while focusing on writing high-quality, maintainable code. It's safe to say this is not your average "Hello World" app—it features structured logging, an interactive menu system, and a solid architecture.
 
 I hope you enjoy exploring the code as much as I enjoyed writing it!
 
@@ -37,7 +37,7 @@ If you have [.NET 9.0 SDK](https://dotnet.microsoft.com/download/dotnet/9.0) ins
 
 1.  **Clone the repo**:
     ```bash
-    git clone https://github.com/voldemorthack01/SAD.git
+    git clone https://github.com/voldemorthack01/SharpShowcase.git
     ```
 2.  **Go to the folder**:
     ```bash
